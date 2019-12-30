@@ -1,0 +1,4 @@
+- 06 sept 11
+  * new option export raw textures 
+  * fix x,y camera out map
+  * show camera coords

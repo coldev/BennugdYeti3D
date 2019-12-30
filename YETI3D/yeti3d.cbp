@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="yeti3d" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="win32">
+				<Option output="bin/Release/yeti3d" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-march=pentium3" />
+					<Add option="-fomit-frame-pointer" />
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-O3" />
+					<Add option="-DCOMPILANDO_BENNU" />
+					<Add directory="source/y3d" />
+					<Add directory="../3rdParty/SDL1.2.15/include" />
+					<Add directory="../3rdParty/Bennu SDK/SDK/libvideo" />
+					<Add directory="../3rdParty/Bennu SDK/SDK/include" />
+					<Add directory="../3rdParty/Bennu SDK/SDK/libgrbase" />
+					<Add directory="source/game" />
+				</Compiler>
+				<Linker>
+					<Add option="-O3" />
+					<Add option="-s" />
+					<Add library="mingw32" />
+					<Add library="libgrbase" />
+					<Add library="bgdrtm" />
+					<Add library="libblit" />
+					<Add library="libvideo" />
+					<Add library="SDL" />
+					<Add directory="d:/devDevBennu/bin" />
+					<Add directory="bin/Release" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-O1" />
+			<Add option="-w" />
+			<Add directory="../Bennu SDK/SDK/include" />
+			<Add directory="../Bennu SDK/SDK/libgrbase" />
+		</Compiler>
+		<Linker>
+			<Add option="-s" />
+		</Linker>
+		<Unit filename="source/flush_uppermem_cache.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="source/flush_uppermem_cache.s">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="source/game/ai/boost.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/ai/bullet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/ai/death.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/ai/explode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/ai/pickup.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/ai/quad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/ai/sheba.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/ai/static_model.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/ai/static_sprite.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/ai/teleporter.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/ai/torch.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/data.h" />
+		<Unit filename="source/game/entities.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/entities.h" />
+		<Unit filename="source/game/game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/game.h" />
+		<Unit filename="source/game/maps.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/maps.h" />
+		<Unit filename="source/game/models.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/models.h" />
+		<Unit filename="source/game/screens.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/game/screens.h" />
+		<Unit filename="source/game/sprites.h" />
+		<Unit filename="source/gp2x.h" />
+		<Unit filename="source/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_animation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_animation.h" />
+		<Unit filename="source/y3d/y3d_ansic.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_ansic.h" />
+		<Unit filename="source/y3d/y3d_cell.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_cell.h" />
+		<Unit filename="source/y3d/y3d_draw.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_draw.h" />
+		<Unit filename="source/y3d/y3d_engine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_engine.h" />
+		<Unit filename="source/y3d/y3d_entity.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_entity.h" />
+		<Unit filename="source/y3d/y3d_file.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_file.h" />
+		<Unit filename="source/y3d/y3d_fixed.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_fixed.h" />
+		<Unit filename="source/y3d/y3d_fruity.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_fruity.h" />
+		<Unit filename="source/y3d/y3d_image.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_image.h" />
+		<Unit filename="source/y3d/y3d_keyboard.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_keyboard.h" />
+		<Unit filename="source/y3d/y3d_map.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_map.h" />
+		<Unit filename="source/y3d/y3d_matrix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_matrix.h" />
+		<Unit filename="source/y3d/y3d_pixel.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_pixel.h" />
+		<Unit filename="source/y3d/y3d_quake.h" />
+		<Unit filename="source/y3d/y3d_record.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_record.h" />
+		<Unit filename="source/y3d/y3d_sound.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_sound.h" />
+		<Unit filename="source/y3d/y3d_spanner.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_spanner.h" />
+		<Unit filename="source/y3d/y3d_surface.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_surface.h" />
+		<Unit filename="source/y3d/y3d_texture.h" />
+		<Unit filename="source/y3d/y3d_vertex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_vertex.h" />
+		<Unit filename="source/y3d/y3d_viewport.h" />
+		<Unit filename="source/y3d/y3d_yeti.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/y3d/y3d_yeti.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

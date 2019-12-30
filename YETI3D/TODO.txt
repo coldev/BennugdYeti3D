@@ -1,0 +1,8 @@
+ --  SPRITE 2.5D
+
+ --  ENTITIES PICKING
+
+ -- VERSION THREADS 
+
+ --  version render - size scale render
+

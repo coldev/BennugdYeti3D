@@ -1,0 +1,6014 @@
+# depslib dependency file v1.0
+1285744304 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\boost.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../models.h"
+
+1294719057 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_yeti.h
+	"y3d_viewport.h"
+	"y3d_ansic.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_vertex.h"
+	"y3d_texture.h"
+	"y3d_surface.h"
+	"y3d_keyboard.h"
+	"y3d_map.h"
+	"y3d_pixel.h"
+
+1286006638 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_viewport.h
+
+1285750796 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_ansic.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<time.h>
+	"mushroom/include/mushroom/msh_dma.h"
+
+1079993276 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_matrix.h
+	"y3d_fixed.h"
+
+1085192058 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_fixed.h
+	"y3d_ansic.h"
+
+1092635814 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_vertex.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1082227958 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_texture.h
+	"y3d_ansic.h"
+
+1081458126 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_surface.h
+	"y3d_texture.h"
+
+1285750126 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_keyboard.h
+	"y3d_ansic.h"
+
+1081485406 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_map.h
+	"y3d_cell.h"
+
+1083992932 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_cell.h
+	"y3d_entity.h"
+	"y3d_vertex.h"
+
+1092636018 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_entity.h
+	"y3d_animation.h"
+
+1285744618 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_animation.h
+	"y3d_ansic.h"
+
+1084302388 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_pixel.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285749950 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_engine.h
+	"y3d_yeti.h"
+
+1079475584 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models.h
+
+1285744398 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\bullet.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../models.h"
+	"../sprites.h"
+
+1084304764 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_draw.h
+	"y3d_yeti.h"
+
+1285744378 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\sprites.h
+	"y3d_yeti.h"
+
+1285745664 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\death.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../models.h"
+	"../sprites.h"
+
+1079734832 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_quake.h
+
+1285745690 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\explode.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1084218186 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_sound.h
+	"y3d_yeti.h"
+
+1285745694 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\pickup.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285745700 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\quad.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285745704 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\sheba.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285746706 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\static_model.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285746846 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\static_sprite.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285745714 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\teleporter.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285745720 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\torch.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1083553758 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\data.c
+	"data.h"
+
+1083553758 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\data.h
+	"y3d_yeti.h"
+
+1285746846 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\entities.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"entities.h"
+	"models.h"
+	"sprites.h"
+	"ai/torch.c"
+	"ai/pickup.c"
+	"ai/boost.c"
+	"ai/quad.c"
+	"ai/teleporter.c"
+	"ai/bullet.c"
+	"ai/explode.c"
+	"ai/death.c"
+
+1081273760 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\entities.h
+	"y3d_yeti.h"
+
+1285745720 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\torch.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285745694 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\pickup.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285744304 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\boost.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../models.h"
+
+1285745700 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\quad.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285745714 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\teleporter.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285744398 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\bullet.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../models.h"
+	"../sprites.h"
+
+1285745690 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\explode.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285745664 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\ai\death.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../models.h"
+	"../sprites.h"
+
+1285906760 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\game.c
+	"y3d_ansic.h"
+	"y3d_sound.h"
+	"y3d_image.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_engine.h"
+	"game.h"
+	"maps.h"
+	"models.h"
+	"sprites.h"
+	"entities.h"
+	"screens.h"
+
+1084302408 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_image.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285745748 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\game.h
+	"../y3d/y3d_yeti.h"
+
+1285745758 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps.h
+	"../y3d/y3d_yeti.h"
+
+1079667512 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\screens.h
+	"y3d_yeti.h"
+
+1286005488 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps.c
+	"maps.h"
+	"maps/e1m1.h"
+	"maps/e1m2.h"
+	"maps/e1m3.h"
+	"maps/e1m4.h"
+	"maps/e1m5.h"
+	"maps/e1m6.h"
+	"maps/e1m7.h"
+	"maps/e1m8.h"
+	"maps/e1m9.h"
+	"maps/e2m1.h"
+	"maps/e2m2.h"
+	"maps/e2m3.h"
+	"maps/e2m4.h"
+	"maps/e2m5.h"
+	"maps/e2m6.h"
+	"maps/e2m7.h"
+	"maps/e2m8.h"
+	"maps/e2m9.h"
+	"maps/e3m1.h"
+	"maps/e3m2.h"
+	"maps/e3m3.h"
+	"maps/e3m4.h"
+	"maps/e3m5.h"
+	"maps/e3m6.h"
+	"maps/e3m7.h"
+	"maps/e3m8.h"
+	"maps/e3m9.h"
+	"maps/house.h"
+	"maps/race1.h"
+	"maps/race.h"
+	"maps/test.h"
+	"maps/cave.h"
+	"maps/transparent.h"
+
+1285746036 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e1m1.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e1m2.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e1m3.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e1m4.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e1m5.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e1m6.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e1m7.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e1m8.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e1m9.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e2m1.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e2m2.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e2m3.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e2m4.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e2m5.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e2m6.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e2m7.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e2m8.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e2m9.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e3m1.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e3m2.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e3m3.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e3m4.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e3m5.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e3m6.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e3m7.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e3m8.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\e3m9.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\house.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\race1.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\race.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\test.h
+	"../y3d/y3d_map.h"
+
+1080439668 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\cave.h
+
+1285746210 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\maps\transparent.h
+	"../y3d/y3d_map.h"
+
+1285747644 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models.c
+	"models/model_rocket.c"
+	"models/model_rifle.c"
+	"models/model_chicken.c"
+	"models/model_prabbit.c"
+	"models/model_tigger.c"
+	"models/model_potator.c"
+	"models/model_karrot.c"
+	"models/model_goblin.c"
+	"models/model_penguin.c"
+	"models/model_scarlet.c"
+	"models/model_banana.c"
+	"models/model_rat.h"
+	"models/model_bauul.h"
+	"models/model_ogro.h"
+	"models/model_barrontree.h"
+	"models/model_leafyplant.h"
+	"models/model_cactus.h"
+	"models/model_potplant.h"
+	"models/model_pinechair.h"
+	"models/model_crate.h"
+	"models/model_overpass.h"
+	"models/model_bridge.h"
+	"models/model_pillar.h"
+	"models/model_emptypot.h"
+	"models/model_boost.h"
+	"models/model_quad.h"
+	"models/model_box.h"
+	"models/model_teleporter.h"
+
+1068647216 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_rocket.c
+
+1068651536 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_rifle.c
+
+1068776238 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_prabbit.c
+
+1068776000 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_tigger.c
+
+1068776892 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_karrot.c
+
+1068776170 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_penguin.c
+
+1068776140 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_scarlet.c
+
+1068276438 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_banana.c
+
+1073522042 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_rat.h
+
+1068776406 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_bauul.h
+
+1068777284 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_ogro.h
+
+1073050178 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_barrontree.h
+
+1073050996 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_leafyplant.h
+
+1073051656 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_cactus.h
+
+1073119018 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_potplant.h
+
+1073053410 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_pinechair.h
+
+1073277822 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_crate.h
+
+1073253598 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_overpass.h
+
+1073325206 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_bridge.h
+
+1073121022 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_pillar.h
+
+1073122684 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_emptypot.h
+
+1068776628 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_boost.h
+
+1068776576 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_quad.h
+
+1071713530 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_box.h
+
+1071715456 f:\yeti3d\src\yeti3d pro sdl port\src\source\game\models\model_teleporter.h
+
+1081547720 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\screens.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_image.h"
+	"screens.h"
+	"game.h"
+	"sprites.h"
+
+1083553572 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\game\sprites.c
+	"sprites.h"
+
+1299064482 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\main.c
+	"gp2x.h"
+	"y3d/y3d_keyboard.h"
+	"y3d/y3d_yeti.h"
+	"game/maps.h"
+	"game/game.h"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	"flush_uppermem_cache.h"
+	<bgddl.h>
+	"dlvaracc.h"
+	"libgrbase.h"
+	"libvideo.h"
+
+1285788948 f:\yeti3d\src\yeti3d pro sdl port\src\source\gp2x.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/soundcard.h>
+	<sys/mman.h>
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151376512 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1151377446 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_amiga.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1147395754 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_platform.h
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_config_amiga.h
+	"SDL_platform.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1147629264 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1147395754 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_config_macosx.h
+	"SDL_platform.h"
+
+1151376512 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_config_os2.h
+	"SDL_platform.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\begin_code.h
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\close_code.h
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1147949066 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_keysym.h
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151376512 e:\unidad c\fenixero\fenix\dependencias\sdl\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1180137120 f:\yeti3d\src\yeti3d pro sdl port\src\source\flush_uppermem_cache.h
+
+1081273962 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_animation.c
+	"y3d_animation.h"
+	"y3d_fixed.h"
+
+1079734860 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_ansic.c
+	"y3d_ansic.h"
+	"y3d_fixed.h"
+
+1080053626 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_cell.c
+	"y3d_cell.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1092645172 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_draw.c
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1286006114 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_engine.c
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1092636010 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_entity.c
+	"y3d_entity.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1079894120 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_file.c
+	"y3d_file.h"
+
+1079734956 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_file.h
+	"y3d_ansic.h"
+
+1092635204 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_fixed.c
+	"y3d_fixed.h"
+
+1084302512 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_fruity.c
+	"y3d_fruity.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1084302506 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_fruity.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+	"y3d_matrix.h"
+	"y3d_vertex.h"
+
+1084302522 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_image.c
+	"y3d_image.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1092615280 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_keyboard.c
+	"y3d_keyboard.h"
+
+1083468974 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_map.c
+	"y3d_map.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1079991818 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_matrix.c
+	"y3d_matrix.h"
+
+1084302524 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_pixel.c
+	"y3d_pixel.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1083459406 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_record.c
+	"y3d_record.h"
+
+1079734980 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_record.h
+	"y3d_keyboard.h"
+
+1079734910 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_sound.c
+	"y3d_sound.h"
+
+1080320424 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_spanner.c
+	"y3d_spanner.h"
+
+1080297744 f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_spanner.h
+	"y3d_ansic.h"
+
+1084064002 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_surface.c
+	"y3d_surface.h"
+	"y3d_draw.h"
+
+1092635746 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_vertex.c
+	"y3d_vertex.h"
+	"y3d_fixed.h"
+
+1285909330 source:f:\yeti3d\src\yeti3d pro sdl port\src\source\y3d\y3d_yeti.c
+	"y3d_yeti.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+	"y3d_map.h"
+	"y3d_engine.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"SDL_compat.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\begin_code.h
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\close_code.h
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_keysym.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"SDL_revision.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_revision.h
+
+1260820620 e:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_compat.h
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1231786294 e:\devbennu\examples\4 dll\bennu sdk\sdk\include\bgddl.h
+	<typedef_st.h>
+	<instance_st.h>
+	<sysprocs_st.h>
+	<commons_defs.h>
+
+1239185012 e:\devbennu\examples\4 dll\bennu sdk\sdk\include\typedef_st.h
+
+1243293798 e:\devbennu\examples\4 dll\bennu sdk\sdk\include\instance_st.h
+
+1231786294 e:\devbennu\examples\4 dll\bennu sdk\sdk\include\sysprocs_st.h
+	<instance.h>
+
+1270696950 e:\devbennu\examples\4 dll\bennu sdk\sdk\include\instance.h
+	<stdint.h>
+	<instance_st.h>
+	"i_procdef_st.h"
+
+1243293798 e:\devbennu\examples\4 dll\bennu sdk\sdk\include\i_procdef_st.h
+	"instance_st.h"
+
+1248228166 e:\devbennu\examples\4 dll\bennu sdk\sdk\include\commons_defs.h
+
+1272225355 e:\devbennu\examples\4 dll\bennu sdk\sdk\include\dlvaracc.h
+	<stdint.h>
+
+1241934284 e:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\libgrbase.h
+	<stdlib.h>
+	<stdint.h>
+	"g_pal.h"
+	"g_bitmap.h"
+	"g_clear.h"
+	"g_grlib.h"
+	"g_region.h"
+	"g_blendop.h"
+	"g_conversion.h"
+
+1248228166 e:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_pal.h
+	"g_bitmap.h"
+
+1244164780 e:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_bitmap.h
+	"g_pal.h"
+
+1231786294 e:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_clear.h
+	"bgdcore.h"
+	"g_region.h"
+
+1231786294 e:\devbennu\examples\4 dll\bennu sdk\sdk\include\bgdcore.h
+
+1231786294 e:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_region.h
+
+1231786294 e:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_grlib.h
+
+1243293798 e:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_blendop.h
+
+1231786294 e:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_conversion.h
+
+1231786294 e:\devbennu\examples\4 dll\bennu sdk\sdk\libvideo\libvideo.h
+	"libgrbase.h"
+	"g_video.h"
+	"g_regions.h"
+
+1254831060 e:\devbennu\examples\4 dll\bennu sdk\sdk\libvideo\g_video.h
+	<SDL/SDL.h>
+	<SDL.h>
+	"libgrbase.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151376512 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1151377446 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_amiga.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1147395754 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_platform.h
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_amiga.h
+	"SDL_platform.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1147629264 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1147395754 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+
+1151376512 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_os2.h
+	"SDL_platform.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\begin_code.h
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\close_code.h
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1147949066 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_keysym.h
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151376512 e:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1231786294 e:\devbennu\examples\4 dll\bennu sdk\sdk\libvideo\g_regions.h
+	"g_region.h"
+
+1299643224 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\boost.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../models.h"
+
+1306211753 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_yeti.h
+	"y3d_viewport.h"
+	"y3d_ansic.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_vertex.h"
+	"y3d_texture.h"
+	"y3d_surface.h"
+	"y3d_keyboard.h"
+	"y3d_map.h"
+	"y3d_pixel.h"
+
+1308204360 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_viewport.h
+
+1285750796 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_ansic.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<time.h>
+	"mushroom/include/mushroom/msh_dma.h"
+
+1079993276 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_matrix.h
+	"y3d_fixed.h"
+
+1085192058 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_fixed.h
+	"y3d_ansic.h"
+
+1092635814 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_vertex.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1082227958 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_texture.h
+	"y3d_ansic.h"
+
+1081458126 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_surface.h
+	"y3d_texture.h"
+
+1285750126 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_keyboard.h
+	"y3d_ansic.h"
+
+1081485406 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_map.h
+	"y3d_cell.h"
+
+1083992932 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_cell.h
+	"y3d_entity.h"
+	"y3d_vertex.h"
+
+1306891011 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_entity.h
+	"y3d_animation.h"
+
+1285744618 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_animation.h
+	"y3d_ansic.h"
+
+1308203659 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_pixel.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285749950 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_engine.h
+	"y3d_yeti.h"
+
+1308200029 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models.h
+
+1299644083 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\bullet.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../models.h"
+	"../sprites.h"
+
+1084304764 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_draw.h
+	"y3d_yeti.h"
+
+1285744378 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\sprites.h
+	"y3d_yeti.h"
+
+1285745664 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\death.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../models.h"
+	"../sprites.h"
+
+1079734832 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_quake.h
+
+1299644069 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\explode.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1084218186 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_sound.h
+	"y3d_yeti.h"
+
+1285745694 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\pickup.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299643230 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\quad.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299644121 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\sheba.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285746706 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\static_model.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285746846 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\static_sprite.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299643234 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\teleporter.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299644155 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\torch.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1308199768 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\data.c
+
+1083553758 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\data.h
+	"y3d_yeti.h"
+
+1299643269 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\entities.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"entities.h"
+	"models.h"
+	"sprites.h"
+	"ai/torch.c"
+	"ai/pickup.c"
+	"ai/boost.c"
+	"ai/quad.c"
+	"ai/teleporter.c"
+	"ai/bullet.c"
+	"ai/explode.c"
+	"ai/death.c"
+
+1081273760 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\entities.h
+	"y3d_yeti.h"
+
+1299644155 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\torch.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285745694 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\pickup.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299643224 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\boost.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../models.h"
+
+1299643230 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\quad.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299643234 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\teleporter.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299644083 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\bullet.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../models.h"
+	"../sprites.h"
+
+1299644069 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\explode.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285745664 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\ai\death.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../models.h"
+	"../sprites.h"
+
+1305692430 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\game.c
+	"y3d_ansic.h"
+	"y3d_sound.h"
+	"y3d_image.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_engine.h"
+	"game.h"
+	"maps.h"
+	"models.h"
+	"sprites.h"
+	"entities.h"
+	"screens.h"
+
+1084302408 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_image.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285745748 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\game.h
+	"../y3d/y3d_yeti.h"
+
+1305260988 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps.h
+	"../y3d/y3d_yeti.h"
+
+1079667512 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\screens.h
+	"y3d_yeti.h"
+
+1308200029 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models.c
+	"models/model_rifle.c"
+	"models/model_chicken.c"
+	"models/model_prabbit.c"
+	"models/model_tigger.c"
+	"models/model_potator.c"
+	"models/model_karrot.c"
+	"models/model_goblin.c"
+	"models/model_penguin.c"
+	"models/model_scarlet.c"
+	"models/model_banana.c"
+	"models/model_rat.h"
+	"models/model_bauul.h"
+	"models/model_ogro.h"
+	"models/model_barrontree.h"
+	"models/model_leafyplant.h"
+	"models/model_cactus.h"
+	"models/model_potplant.h"
+	"models/model_pinechair.h"
+	"models/model_crate.h"
+	"models/model_overpass.h"
+	"models/model_bridge.h"
+	"models/model_pillar.h"
+	"models/model_emptypot.h"
+	"models/model_boost.h"
+	"models/model_quad.h"
+	"models/model_box.h"
+	"models/model_teleporter.h"
+
+1068647216 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_rocket.c
+
+1068651536 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_rifle.c
+
+1068776238 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_prabbit.c
+
+1068776000 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_tigger.c
+
+1068776892 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_karrot.c
+
+1068776170 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_penguin.c
+
+1068776140 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_scarlet.c
+
+1068276438 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_banana.c
+
+1073522042 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_rat.h
+
+1068776406 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_bauul.h
+
+1068777284 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_ogro.h
+
+1073050178 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_barrontree.h
+
+1073050996 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_leafyplant.h
+
+1073051656 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_cactus.h
+
+1073119018 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_potplant.h
+
+1073053410 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_pinechair.h
+
+1073277822 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_crate.h
+
+1073253598 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_overpass.h
+
+1073325206 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_bridge.h
+
+1073121022 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_pillar.h
+
+1073122684 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_emptypot.h
+
+1068776628 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_boost.h
+
+1068776576 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_quad.h
+
+1071713530 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_box.h
+
+1071715456 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\models\model_teleporter.h
+
+1299644831 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\screens.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_image.h"
+	"screens.h"
+	"game.h"
+	"sprites.h"
+
+1308200126 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\sprites.c
+	"sprites.h"
+
+1308203026 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\main.c
+	"gp2x.h"
+	"y3d/y3d_keyboard.h"
+	"y3d/y3d_yeti.h"
+	"game/maps.h"
+	"game/game.h"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	"flush_uppermem_cache.h"
+	<bgddl.h>
+	"dlvaracc.h"
+	"libgrbase.h"
+	"libvideo.h"
+
+1285788948 f:\yeti3d\src\yeti3d pro bennu source code\src\source\gp2x.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/soundcard.h>
+	<sys/mman.h>
+
+1180137120 f:\yeti3d\src\yeti3d pro bennu source code\src\source\flush_uppermem_cache.h
+
+1081273962 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_animation.c
+	"y3d_animation.h"
+	"y3d_fixed.h"
+
+1079734860 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_ansic.c
+	"y3d_ansic.h"
+	"y3d_fixed.h"
+
+1080053626 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_cell.c
+	"y3d_cell.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1092645172 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_draw.c
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1286006114 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_engine.c
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1092636010 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_entity.c
+	"y3d_entity.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1079894120 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_file.c
+	"y3d_file.h"
+
+1079734956 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_file.h
+	"y3d_ansic.h"
+
+1092635204 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_fixed.c
+	"y3d_fixed.h"
+
+1084302512 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_fruity.c
+	"y3d_fruity.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1084302506 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_fruity.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+	"y3d_matrix.h"
+	"y3d_vertex.h"
+
+1084302522 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_image.c
+	"y3d_image.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1092615280 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_keyboard.c
+	"y3d_keyboard.h"
+
+1083468974 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_map.c
+	"y3d_map.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1079991818 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_matrix.c
+	"y3d_matrix.h"
+
+1084302524 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_pixel.c
+	"y3d_pixel.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1083459406 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_record.c
+	"y3d_record.h"
+
+1079734980 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_record.h
+	"y3d_keyboard.h"
+
+1079734910 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_sound.c
+	"y3d_sound.h"
+
+1080320424 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_spanner.c
+	"y3d_spanner.h"
+
+1080297744 f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_spanner.h
+	"y3d_ansic.h"
+
+1084064002 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_surface.c
+	"y3d_surface.h"
+	"y3d_draw.h"
+
+1092635746 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_vertex.c
+	"y3d_vertex.h"
+	"y3d_fixed.h"
+
+1285909330 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\y3d\y3d_yeti.c
+	"y3d_yeti.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+	"y3d_map.h"
+	"y3d_engine.h"
+
+1308199840 source:f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps.c
+	"maps.h"
+	"maps/e1m1.h"
+	"maps/e1m2.h"
+	"maps/e1m3.h"
+	"maps/e1m4.h"
+	"maps/e1m5.h"
+	"maps/e1m6.h"
+	"maps/e1m7.h"
+	"maps/e1m8.h"
+	"maps/e1m9.h"
+	"maps/e2m1.h"
+	"maps/e2m2.h"
+	"maps/e2m3.h"
+	"maps/e2m4.h"
+	"maps/e2m5.h"
+	"maps/e2m6.h"
+	"maps/e2m7.h"
+	"maps/e2m8.h"
+	"maps/e2m9.h"
+	"maps/e3m1.h"
+	"maps/e3m2.h"
+	"maps/e3m3.h"
+	"maps/e3m4.h"
+	"maps/e3m5.h"
+	"maps/e3m6.h"
+	"maps/e3m7.h"
+	"maps/e3m8.h"
+	"maps/e3m9.h"
+	"maps/house.h"
+	"maps/race1.h"
+	"maps/race.h"
+	"maps/test.h"
+	"maps/cave.h"
+	"maps/transparent.h"
+
+1285746036 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e1m1.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e1m2.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e1m3.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e1m4.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e1m5.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e1m6.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e1m7.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e1m8.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e1m9.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e2m1.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e2m2.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e2m3.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e2m4.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e2m5.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e2m6.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e2m7.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e2m8.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e2m9.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e3m1.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e3m3.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e3m4.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e3m5.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e3m6.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e3m7.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e3m8.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e3m9.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\house.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\race1.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\race.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\test.h
+	"../y3d/y3d_map.h"
+
+1080439668 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\cave.h
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\transparent.h
+	"../y3d/y3d_map.h"
+
+1285746210 f:\yeti3d\src\yeti3d pro bennu source code\src\source\game\maps\e3m2.h
+	"../y3d/y3d_map.h"
+
+1299643224 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\boost.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../models.h"
+
+1313701958 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_yeti.h
+	"y3d_viewport.h"
+	"y3d_ansic.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_vertex.h"
+	"y3d_texture.h"
+	"y3d_surface.h"
+	"y3d_keyboard.h"
+	"y3d_map.h"
+	"y3d_pixel.h"
+
+1334335159 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_viewport.h
+
+1285750796 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_ansic.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<time.h>
+	"mushroom/include/mushroom/msh_dma.h"
+
+1079993276 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_matrix.h
+	"y3d_fixed.h"
+
+1085192058 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_fixed.h
+	"y3d_ansic.h"
+
+1092635814 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_vertex.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1082227958 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_texture.h
+	"y3d_ansic.h"
+
+1081458126 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_surface.h
+	"y3d_texture.h"
+
+1285750126 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_keyboard.h
+	"y3d_ansic.h"
+
+1081485406 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_map.h
+	"y3d_cell.h"
+
+1083992932 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_cell.h
+	"y3d_entity.h"
+	"y3d_vertex.h"
+
+1316018623 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_entity.h
+	"y3d_animation.h"
+
+1285744618 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_animation.h
+	"y3d_ansic.h"
+
+1308203659 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_pixel.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285749950 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_engine.h
+	"y3d_yeti.h"
+
+1308200029 d:\personal\dev\yeti3d\yeti3d\src\source\game\models.h
+
+1311432300 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\bullet.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../models.h"
+
+1084304764 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_draw.h
+	"y3d_yeti.h"
+
+1285744378 d:\personal\dev\yeti3d\yeti3d\src\source\game\sprites.h
+	"y3d_yeti.h"
+
+1311432307 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\death.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../models.h"
+
+1079734832 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_quake.h
+
+1311432313 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\explode.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1084218186 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_sound.h
+	"y3d_yeti.h"
+
+1311432318 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\pickup.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432323 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\quad.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432328 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\sheba.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1285746706 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\static_model.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285746846 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\static_sprite.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1311432334 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\teleporter.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432339 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\torch.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1308199768 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\data.c
+
+1311432344 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\entities.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"entities.h"
+	"models.h"
+	"ai/torch.c"
+	"ai/pickup.c"
+	"ai/boost.c"
+	"ai/quad.c"
+	"ai/teleporter.c"
+	"ai/bullet.c"
+	"ai/explode.c"
+	"ai/death.c"
+
+1081273760 d:\personal\dev\yeti3d\yeti3d\src\source\game\entities.h
+	"y3d_yeti.h"
+
+1311432339 d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\torch.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432318 d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\pickup.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1299643224 d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\boost.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../models.h"
+
+1311432323 d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\quad.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432334 d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\teleporter.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432300 d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\bullet.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../models.h"
+
+1311432313 d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\explode.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432307 d:\personal\dev\yeti3d\yeti3d\src\source\game\ai\death.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../models.h"
+
+1314735606 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\game.c
+	"y3d_ansic.h"
+	"y3d_sound.h"
+	"y3d_image.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_engine.h"
+	"game.h"
+	"maps.h"
+	"models.h"
+	"entities.h"
+	"screens.h"
+
+1084302408 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_image.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285745748 d:\personal\dev\yeti3d\yeti3d\src\source\game\game.h
+	"../y3d/y3d_yeti.h"
+
+1305260988 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps.h
+	"../y3d/y3d_yeti.h"
+
+1079667512 d:\personal\dev\yeti3d\yeti3d\src\source\game\screens.h
+	"y3d_yeti.h"
+
+1308199840 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\maps.c
+	"maps.h"
+	"maps/e1m1.h"
+	"maps/e1m2.h"
+	"maps/e1m3.h"
+	"maps/e1m4.h"
+	"maps/e1m5.h"
+	"maps/e1m6.h"
+	"maps/e1m7.h"
+	"maps/e1m8.h"
+	"maps/e1m9.h"
+	"maps/e2m1.h"
+	"maps/e2m2.h"
+	"maps/e2m3.h"
+	"maps/e2m4.h"
+	"maps/e2m5.h"
+	"maps/e2m6.h"
+	"maps/e2m7.h"
+	"maps/e2m8.h"
+	"maps/e2m9.h"
+	"maps/e3m1.h"
+	"maps/e3m2.h"
+	"maps/e3m3.h"
+	"maps/e3m4.h"
+	"maps/e3m5.h"
+	"maps/e3m6.h"
+	"maps/e3m7.h"
+	"maps/e3m8.h"
+	"maps/e3m9.h"
+	"maps/house.h"
+	"maps/race1.h"
+	"maps/race.h"
+	"maps/test.h"
+	"maps/cave.h"
+	"maps/transparent.h"
+
+1285746036 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e1m1.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e1m2.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e1m3.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e1m4.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e1m5.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e1m6.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e1m7.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e1m8.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e1m9.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e2m1.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e2m2.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e2m3.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e2m4.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e2m5.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e2m6.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e2m7.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e2m8.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e2m9.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e3m1.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e3m2.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e3m3.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e3m4.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e3m5.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e3m6.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e3m7.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e3m8.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\e3m9.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\house.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\race1.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\race.h
+	"../y3d/y3d_map.h"
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\test.h
+	"../y3d/y3d_map.h"
+
+1080439668 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\cave.h
+
+1285746210 d:\personal\dev\yeti3d\yeti3d\src\source\game\maps\transparent.h
+	"../y3d/y3d_map.h"
+
+1308200029 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\models.c
+	"models/model_rifle.c"
+	"models/model_chicken.c"
+	"models/model_prabbit.c"
+	"models/model_tigger.c"
+	"models/model_potator.c"
+	"models/model_karrot.c"
+	"models/model_goblin.c"
+	"models/model_penguin.c"
+	"models/model_scarlet.c"
+	"models/model_banana.c"
+	"models/model_rat.h"
+	"models/model_bauul.h"
+	"models/model_ogro.h"
+	"models/model_barrontree.h"
+	"models/model_leafyplant.h"
+	"models/model_cactus.h"
+	"models/model_potplant.h"
+	"models/model_pinechair.h"
+	"models/model_crate.h"
+	"models/model_overpass.h"
+	"models/model_bridge.h"
+	"models/model_pillar.h"
+	"models/model_emptypot.h"
+	"models/model_boost.h"
+	"models/model_quad.h"
+	"models/model_box.h"
+	"models/model_teleporter.h"
+
+1068651536 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_rifle.c
+
+1068776238 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_prabbit.c
+
+1068776000 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_tigger.c
+
+1068776892 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_karrot.c
+
+1068776170 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_penguin.c
+
+1068776140 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_scarlet.c
+
+1068276438 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_banana.c
+
+1073522042 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_rat.h
+
+1068776406 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_bauul.h
+
+1068777284 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_ogro.h
+
+1073050178 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_barrontree.h
+
+1073050996 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_leafyplant.h
+
+1073051656 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_cactus.h
+
+1073119018 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_potplant.h
+
+1073053410 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_pinechair.h
+
+1073277822 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_crate.h
+
+1073253598 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_overpass.h
+
+1073325206 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_bridge.h
+
+1073121022 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_pillar.h
+
+1073122684 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_emptypot.h
+
+1068776628 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_boost.h
+
+1068776576 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_quad.h
+
+1071713530 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_box.h
+
+1071715456 d:\personal\dev\yeti3d\yeti3d\src\source\game\models\model_teleporter.h
+
+1311432393 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\screens.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_image.h"
+	"screens.h"
+	"game.h"
+
+1310675614 source:d:\personal\dev\yeti3d\yeti3d\src\source\game\sprites.c
+	"sprites.h"
+
+1081273962 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_animation.c
+	"y3d_animation.h"
+	"y3d_fixed.h"
+
+1079734860 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_ansic.c
+	"y3d_ansic.h"
+	"y3d_fixed.h"
+
+1080053626 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_cell.c
+	"y3d_cell.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1310674553 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_draw.c
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1316806437 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_engine.c
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1092636010 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_entity.c
+	"y3d_entity.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1314199109 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_file.c
+	"y3d_file.h"
+
+1314199193 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_file.h
+	"y3d_ansic.h"
+
+1092635204 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_fixed.c
+	"y3d_fixed.h"
+
+1084302512 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_fruity.c
+	"y3d_fruity.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1084302506 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_fruity.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+	"y3d_matrix.h"
+	"y3d_vertex.h"
+
+1084302522 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_image.c
+	"y3d_image.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1092615280 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_keyboard.c
+	"y3d_keyboard.h"
+
+1083468974 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_map.c
+	"y3d_map.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1079991818 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_matrix.c
+	"y3d_matrix.h"
+
+1310188362 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_pixel.c
+	"y3d_pixel.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1083459406 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_record.c
+	"y3d_record.h"
+
+1079734980 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_record.h
+	"y3d_keyboard.h"
+
+1079734910 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_sound.c
+	"y3d_sound.h"
+
+1080320424 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_spanner.c
+	"y3d_spanner.h"
+
+1080297744 d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_spanner.h
+	"y3d_ansic.h"
+
+1084064002 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_surface.c
+	"y3d_surface.h"
+	"y3d_draw.h"
+
+1092635746 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_vertex.c
+	"y3d_vertex.h"
+	"y3d_fixed.h"
+
+1285909330 source:d:\personal\dev\yeti3d\yeti3d\src\source\y3d\y3d_yeti.c
+	"y3d_yeti.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+	"y3d_map.h"
+	"y3d_engine.h"
+
+1334334340 source:d:\personal\dev\yeti3d\yeti3d\src\source\main.c
+	"y3d/y3d_keyboard.h"
+	"y3d/y3d_yeti.h"
+	"game/maps.h"
+	"game/game.h"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	<bgddl.h>
+	"dlvaracc.h"
+	"libgrbase.h"
+	"libvideo.h"
+	"y3d_image.h"
+	"pixelbennu.c"
+	"y3d_engine.h"
+
+1285788948 d:\personal\dev\yeti3d\yeti3d\src\source\gp2x.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/soundcard.h>
+	<sys/mman.h>
+
+1180137120 d:\personal\dev\yeti3d\yeti3d\src\source\flush_uppermem_cache.h
+
+1231786294 d:\devbennu\examples\4 dll\bennu sdk\sdk\include\bgddl.h
+	<typedef_st.h>
+	<instance_st.h>
+	<sysprocs_st.h>
+	<commons_defs.h>
+
+1239185012 d:\devbennu\examples\4 dll\bennu sdk\sdk\include\typedef_st.h
+
+1243293798 d:\devbennu\examples\4 dll\bennu sdk\sdk\include\instance_st.h
+
+1231786294 d:\devbennu\examples\4 dll\bennu sdk\sdk\include\sysprocs_st.h
+	<instance.h>
+
+1270696950 d:\devbennu\examples\4 dll\bennu sdk\sdk\include\instance.h
+	<stdint.h>
+	<instance_st.h>
+	"i_procdef_st.h"
+
+1243293798 d:\devbennu\examples\4 dll\bennu sdk\sdk\include\i_procdef_st.h
+	"instance_st.h"
+
+1248228166 d:\devbennu\examples\4 dll\bennu sdk\sdk\include\commons_defs.h
+
+1272225355 d:\devbennu\examples\4 dll\bennu sdk\sdk\include\dlvaracc.h
+	<stdint.h>
+
+1241934284 d:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\libgrbase.h
+	<stdlib.h>
+	<stdint.h>
+	"g_pal.h"
+	"g_bitmap.h"
+	"g_clear.h"
+	"g_grlib.h"
+	"g_region.h"
+	"g_blendop.h"
+	"g_conversion.h"
+
+1248228166 d:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_pal.h
+	"g_bitmap.h"
+
+1244164780 d:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_bitmap.h
+	"g_pal.h"
+
+1231786294 d:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_clear.h
+	"bgdcore.h"
+	"g_region.h"
+
+1231786294 d:\devbennu\examples\4 dll\bennu sdk\sdk\include\bgdcore.h
+
+1231786294 d:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_region.h
+
+1231786294 d:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_grlib.h
+
+1243293798 d:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_blendop.h
+
+1231786294 d:\devbennu\examples\4 dll\bennu sdk\sdk\libgrbase\g_conversion.h
+
+1231786294 d:\devbennu\examples\4 dll\bennu sdk\sdk\libvideo\libvideo.h
+	"libgrbase.h"
+	"g_video.h"
+	"g_regions.h"
+
+1254831060 d:\devbennu\examples\4 dll\bennu sdk\sdk\libvideo\g_video.h
+	<SDL/SDL.h>
+	<SDL.h>
+	"libgrbase.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"SDL_compat.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\begin_code.h
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\close_code.h
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_keysym.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"SDL_revision.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_revision.h
+
+1260820620 d:\unidad c\fenixero\fenix\dependencias\sdl-1.3-mingw32\include\sdl\sdl_compat.h
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151376512 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1151377446 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_amiga.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1147395754 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_platform.h
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_amiga.h
+	"SDL_platform.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1147629264 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1147395754 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+
+1151376512 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_os2.h
+	"SDL_platform.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\begin_code.h
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\close_code.h
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1147949066 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_keysym.h
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1146463380 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151376512 d:\unidad c\fenixero\fenix\dependencias\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1231786294 d:\devbennu\examples\4 dll\bennu sdk\sdk\libvideo\g_regions.h
+	"g_region.h"
+
+1299643224 source:f:\yeti3d\src\src\source\game\ai\boost.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../models.h"
+
+1308238927 f:\yeti3d\src\src\source\y3d\y3d_yeti.h
+	"y3d_viewport.h"
+	"y3d_ansic.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_vertex.h"
+	"y3d_texture.h"
+	"y3d_surface.h"
+	"y3d_keyboard.h"
+	"y3d_map.h"
+	"y3d_pixel.h"
+
+1308204360 f:\yeti3d\src\src\source\y3d\y3d_viewport.h
+
+1285750796 f:\yeti3d\src\src\source\y3d\y3d_ansic.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<time.h>
+	"mushroom/include/mushroom/msh_dma.h"
+
+1079993276 f:\yeti3d\src\src\source\y3d\y3d_matrix.h
+	"y3d_fixed.h"
+
+1085192058 f:\yeti3d\src\src\source\y3d\y3d_fixed.h
+	"y3d_ansic.h"
+
+1092635814 f:\yeti3d\src\src\source\y3d\y3d_vertex.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1082227958 f:\yeti3d\src\src\source\y3d\y3d_texture.h
+	"y3d_ansic.h"
+
+1081458126 f:\yeti3d\src\src\source\y3d\y3d_surface.h
+	"y3d_texture.h"
+
+1285750126 f:\yeti3d\src\src\source\y3d\y3d_keyboard.h
+	"y3d_ansic.h"
+
+1081485406 f:\yeti3d\src\src\source\y3d\y3d_map.h
+	"y3d_cell.h"
+
+1083992932 f:\yeti3d\src\src\source\y3d\y3d_cell.h
+	"y3d_entity.h"
+	"y3d_vertex.h"
+
+1306891011 f:\yeti3d\src\src\source\y3d\y3d_entity.h
+	"y3d_animation.h"
+
+1285744618 f:\yeti3d\src\src\source\y3d\y3d_animation.h
+	"y3d_ansic.h"
+
+1308203659 f:\yeti3d\src\src\source\y3d\y3d_pixel.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285749950 f:\yeti3d\src\src\source\y3d\y3d_engine.h
+	"y3d_yeti.h"
+
+1308200029 f:\yeti3d\src\src\source\game\models.h
+
+1299644083 source:f:\yeti3d\src\src\source\game\ai\bullet.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../models.h"
+	"../sprites.h"
+
+1084304764 f:\yeti3d\src\src\source\y3d\y3d_draw.h
+	"y3d_yeti.h"
+
+1285744378 f:\yeti3d\src\src\source\game\sprites.h
+	"y3d_yeti.h"
+
+1285745664 source:f:\yeti3d\src\src\source\game\ai\death.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../models.h"
+	"../sprites.h"
+
+1079734832 f:\yeti3d\src\src\source\y3d\y3d_quake.h
+
+1299644069 source:f:\yeti3d\src\src\source\game\ai\explode.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1084218186 f:\yeti3d\src\src\source\y3d\y3d_sound.h
+	"y3d_yeti.h"
+
+1285745694 source:f:\yeti3d\src\src\source\game\ai\pickup.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299643230 source:f:\yeti3d\src\src\source\game\ai\quad.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299644121 source:f:\yeti3d\src\src\source\game\ai\sheba.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285746706 source:f:\yeti3d\src\src\source\game\ai\static_model.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285746846 source:f:\yeti3d\src\src\source\game\ai\static_sprite.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299643234 source:f:\yeti3d\src\src\source\game\ai\teleporter.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299644155 source:f:\yeti3d\src\src\source\game\ai\torch.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1308199768 source:f:\yeti3d\src\src\source\game\data.c
+
+1299643269 source:f:\yeti3d\src\src\source\game\entities.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"entities.h"
+	"models.h"
+	"sprites.h"
+	"ai/torch.c"
+	"ai/pickup.c"
+	"ai/boost.c"
+	"ai/quad.c"
+	"ai/teleporter.c"
+	"ai/bullet.c"
+	"ai/explode.c"
+	"ai/death.c"
+
+1081273760 f:\yeti3d\src\src\source\game\entities.h
+	"y3d_yeti.h"
+
+1299644155 f:\yeti3d\src\src\source\game\ai\torch.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285745694 f:\yeti3d\src\src\source\game\ai\pickup.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299643224 f:\yeti3d\src\src\source\game\ai\boost.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../models.h"
+
+1299643230 f:\yeti3d\src\src\source\game\ai\quad.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299643234 f:\yeti3d\src\src\source\game\ai\teleporter.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1299644083 f:\yeti3d\src\src\source\game\ai\bullet.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../models.h"
+	"../sprites.h"
+
+1299644069 f:\yeti3d\src\src\source\game\ai\explode.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285745664 f:\yeti3d\src\src\source\game\ai\death.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../models.h"
+	"../sprites.h"
+
+1309412987 source:f:\yeti3d\src\src\source\game\game.c
+	"y3d_ansic.h"
+	"y3d_sound.h"
+	"y3d_image.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_engine.h"
+	"game.h"
+	"maps.h"
+	"models.h"
+	"sprites.h"
+	"entities.h"
+	"screens.h"
+
+1084302408 f:\yeti3d\src\src\source\y3d\y3d_image.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285745748 f:\yeti3d\src\src\source\game\game.h
+	"../y3d/y3d_yeti.h"
+
+1305260988 f:\yeti3d\src\src\source\game\maps.h
+	"../y3d/y3d_yeti.h"
+
+1079667512 f:\yeti3d\src\src\source\game\screens.h
+	"y3d_yeti.h"
+
+1308199840 source:f:\yeti3d\src\src\source\game\maps.c
+	"maps.h"
+	"maps/e1m1.h"
+	"maps/e1m2.h"
+	"maps/e1m3.h"
+	"maps/e1m4.h"
+	"maps/e1m5.h"
+	"maps/e1m6.h"
+	"maps/e1m7.h"
+	"maps/e1m8.h"
+	"maps/e1m9.h"
+	"maps/e2m1.h"
+	"maps/e2m2.h"
+	"maps/e2m3.h"
+	"maps/e2m4.h"
+	"maps/e2m5.h"
+	"maps/e2m6.h"
+	"maps/e2m7.h"
+	"maps/e2m8.h"
+	"maps/e2m9.h"
+	"maps/e3m1.h"
+	"maps/e3m2.h"
+	"maps/e3m3.h"
+	"maps/e3m4.h"
+	"maps/e3m5.h"
+	"maps/e3m6.h"
+	"maps/e3m7.h"
+	"maps/e3m8.h"
+	"maps/e3m9.h"
+	"maps/house.h"
+	"maps/race1.h"
+	"maps/race.h"
+	"maps/test.h"
+	"maps/cave.h"
+	"maps/transparent.h"
+
+1308200029 source:f:\yeti3d\src\src\source\game\models.c
+	"models/model_rifle.c"
+	"models/model_chicken.c"
+	"models/model_prabbit.c"
+	"models/model_tigger.c"
+	"models/model_potator.c"
+	"models/model_karrot.c"
+	"models/model_goblin.c"
+	"models/model_penguin.c"
+	"models/model_scarlet.c"
+	"models/model_banana.c"
+	"models/model_rat.h"
+	"models/model_bauul.h"
+	"models/model_ogro.h"
+	"models/model_barrontree.h"
+	"models/model_leafyplant.h"
+	"models/model_cactus.h"
+	"models/model_potplant.h"
+	"models/model_pinechair.h"
+	"models/model_crate.h"
+	"models/model_overpass.h"
+	"models/model_bridge.h"
+	"models/model_pillar.h"
+	"models/model_emptypot.h"
+	"models/model_boost.h"
+	"models/model_quad.h"
+	"models/model_box.h"
+	"models/model_teleporter.h"
+
+1299644831 source:f:\yeti3d\src\src\source\game\screens.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_image.h"
+	"screens.h"
+	"game.h"
+	"sprites.h"
+
+1308200126 source:f:\yeti3d\src\src\source\game\sprites.c
+	"sprites.h"
+
+1309413135 source:f:\yeti3d\src\src\source\main.c
+	"y3d/y3d_keyboard.h"
+	"y3d/y3d_yeti.h"
+	"game/maps.h"
+	"game/game.h"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	<bgddl.h>
+	"dlvaracc.h"
+	"libgrbase.h"
+	"libvideo.h"
+
+1081273962 source:f:\yeti3d\src\src\source\y3d\y3d_animation.c
+	"y3d_animation.h"
+	"y3d_fixed.h"
+
+1079734860 source:f:\yeti3d\src\src\source\y3d\y3d_ansic.c
+	"y3d_ansic.h"
+	"y3d_fixed.h"
+
+1080053626 source:f:\yeti3d\src\src\source\y3d\y3d_cell.c
+	"y3d_cell.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1092645172 source:f:\yeti3d\src\src\source\y3d\y3d_draw.c
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1286006114 source:f:\yeti3d\src\src\source\y3d\y3d_engine.c
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1092636010 source:f:\yeti3d\src\src\source\y3d\y3d_entity.c
+	"y3d_entity.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1079894120 source:f:\yeti3d\src\src\source\y3d\y3d_file.c
+	"y3d_file.h"
+
+1079734956 f:\yeti3d\src\src\source\y3d\y3d_file.h
+	"y3d_ansic.h"
+
+1092635204 source:f:\yeti3d\src\src\source\y3d\y3d_fixed.c
+	"y3d_fixed.h"
+
+1084302512 source:f:\yeti3d\src\src\source\y3d\y3d_fruity.c
+	"y3d_fruity.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1084302506 f:\yeti3d\src\src\source\y3d\y3d_fruity.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+	"y3d_matrix.h"
+	"y3d_vertex.h"
+
+1084302522 source:f:\yeti3d\src\src\source\y3d\y3d_image.c
+	"y3d_image.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1092615280 source:f:\yeti3d\src\src\source\y3d\y3d_keyboard.c
+	"y3d_keyboard.h"
+
+1083468974 source:f:\yeti3d\src\src\source\y3d\y3d_map.c
+	"y3d_map.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1079991818 source:f:\yeti3d\src\src\source\y3d\y3d_matrix.c
+	"y3d_matrix.h"
+
+1084302524 source:f:\yeti3d\src\src\source\y3d\y3d_pixel.c
+	"y3d_pixel.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1083459406 source:f:\yeti3d\src\src\source\y3d\y3d_record.c
+	"y3d_record.h"
+
+1079734980 f:\yeti3d\src\src\source\y3d\y3d_record.h
+	"y3d_keyboard.h"
+
+1079734910 source:f:\yeti3d\src\src\source\y3d\y3d_sound.c
+	"y3d_sound.h"
+
+1080320424 source:f:\yeti3d\src\src\source\y3d\y3d_spanner.c
+	"y3d_spanner.h"
+
+1080297744 f:\yeti3d\src\src\source\y3d\y3d_spanner.h
+	"y3d_ansic.h"
+
+1084064002 source:f:\yeti3d\src\src\source\y3d\y3d_surface.c
+	"y3d_surface.h"
+	"y3d_draw.h"
+
+1092635746 source:f:\yeti3d\src\src\source\y3d\y3d_vertex.c
+	"y3d_vertex.h"
+	"y3d_fixed.h"
+
+1285909330 source:f:\yeti3d\src\src\source\y3d\y3d_yeti.c
+	"y3d_yeti.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+	"y3d_map.h"
+	"y3d_engine.h"
+
+1310224008 d:\personal\dev\yeti3d\yeti3d\src\source\pixelbennu.c
+	"y3d_viewport.h"
+	"y3d_pixel.h"
+	"y3d_draw.h"
+
+1299643226 source:c:\nueva carpeta\dev\yeti3d\src\source\game\ai\boost.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../models.h"
+
+1313701960 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_yeti.h
+	"y3d_viewport.h"
+	"y3d_ansic.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_vertex.h"
+	"y3d_texture.h"
+	"y3d_surface.h"
+	"y3d_keyboard.h"
+	"y3d_map.h"
+	"y3d_pixel.h"
+
+1334335160 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_viewport.h
+
+1285750796 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_ansic.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<time.h>
+	"mushroom/include/mushroom/msh_dma.h"
+
+1079993276 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_matrix.h
+	"y3d_fixed.h"
+
+1085192058 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_fixed.h
+	"y3d_ansic.h"
+
+1092635814 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_vertex.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1082227958 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_texture.h
+	"y3d_ansic.h"
+
+1081458126 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_surface.h
+	"y3d_texture.h"
+
+1285750126 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_keyboard.h
+	"y3d_ansic.h"
+
+1081485406 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_map.h
+	"y3d_cell.h"
+
+1083992932 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_cell.h
+	"y3d_entity.h"
+	"y3d_vertex.h"
+
+1348502167 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_entity.h
+	"y3d_animation.h"
+
+1285744618 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_animation.h
+	"y3d_ansic.h"
+
+1308203660 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_pixel.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285749950 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_engine.h
+	"y3d_yeti.h"
+
+1308200030 c:\nueva carpeta\dev\yeti3d\src\source\game\models.h
+
+1311432302 source:c:\nueva carpeta\dev\yeti3d\src\source\game\ai\bullet.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../models.h"
+
+1084304764 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_draw.h
+	"y3d_yeti.h"
+
+1311432308 source:c:\nueva carpeta\dev\yeti3d\src\source\game\ai\death.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../models.h"
+
+1079734832 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_quake.h
+
+1311432314 source:c:\nueva carpeta\dev\yeti3d\src\source\game\ai\explode.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1084218186 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_sound.h
+	"y3d_yeti.h"
+
+1311432320 source:c:\nueva carpeta\dev\yeti3d\src\source\game\ai\pickup.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432324 source:c:\nueva carpeta\dev\yeti3d\src\source\game\ai\quad.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432330 source:c:\nueva carpeta\dev\yeti3d\src\source\game\ai\sheba.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1285746706 source:c:\nueva carpeta\dev\yeti3d\src\source\game\ai\static_model.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285746846 source:c:\nueva carpeta\dev\yeti3d\src\source\game\ai\static_sprite.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1311432336 source:c:\nueva carpeta\dev\yeti3d\src\source\game\ai\teleporter.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432340 source:c:\nueva carpeta\dev\yeti3d\src\source\game\ai\torch.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432346 source:c:\nueva carpeta\dev\yeti3d\src\source\game\entities.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"entities.h"
+	"models.h"
+	"ai/torch.c"
+	"ai/pickup.c"
+	"ai/boost.c"
+	"ai/quad.c"
+	"ai/teleporter.c"
+	"ai/bullet.c"
+	"ai/explode.c"
+	"ai/death.c"
+
+1081273760 c:\nueva carpeta\dev\yeti3d\src\source\game\entities.h
+	"y3d_yeti.h"
+
+1311432340 c:\nueva carpeta\dev\yeti3d\src\source\game\ai\torch.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432320 c:\nueva carpeta\dev\yeti3d\src\source\game\ai\pickup.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1299643226 c:\nueva carpeta\dev\yeti3d\src\source\game\ai\boost.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../models.h"
+
+1311432324 c:\nueva carpeta\dev\yeti3d\src\source\game\ai\quad.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432336 c:\nueva carpeta\dev\yeti3d\src\source\game\ai\teleporter.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432302 c:\nueva carpeta\dev\yeti3d\src\source\game\ai\bullet.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../models.h"
+
+1311432314 c:\nueva carpeta\dev\yeti3d\src\source\game\ai\explode.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432308 c:\nueva carpeta\dev\yeti3d\src\source\game\ai\death.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../models.h"
+
+1348520545 source:c:\nueva carpeta\dev\yeti3d\src\source\game\game.c
+	"y3d_ansic.h"
+	"y3d_sound.h"
+	"y3d_image.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_engine.h"
+	"game.h"
+	"maps.h"
+	"models.h"
+	"entities.h"
+	"screens.h"
+
+1084302408 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_image.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285745748 c:\nueva carpeta\dev\yeti3d\src\source\game\game.h
+	"../y3d/y3d_yeti.h"
+
+1305260990 c:\nueva carpeta\dev\yeti3d\src\source\game\maps.h
+	"../y3d/y3d_yeti.h"
+
+1079667512 c:\nueva carpeta\dev\yeti3d\src\source\game\screens.h
+	"y3d_yeti.h"
+
+1308199842 source:c:\nueva carpeta\dev\yeti3d\src\source\game\maps.c
+	"maps.h"
+	"maps/e1m1.h"
+	"maps/e1m2.h"
+	"maps/e1m3.h"
+	"maps/e1m4.h"
+	"maps/e1m5.h"
+	"maps/e1m6.h"
+	"maps/e1m7.h"
+	"maps/e1m8.h"
+	"maps/e1m9.h"
+	"maps/e2m1.h"
+	"maps/e2m2.h"
+	"maps/e2m3.h"
+	"maps/e2m4.h"
+	"maps/e2m5.h"
+	"maps/e2m6.h"
+	"maps/e2m7.h"
+	"maps/e2m8.h"
+	"maps/e2m9.h"
+	"maps/e3m1.h"
+	"maps/e3m2.h"
+	"maps/e3m3.h"
+	"maps/e3m4.h"
+	"maps/e3m5.h"
+	"maps/e3m6.h"
+	"maps/e3m7.h"
+	"maps/e3m8.h"
+	"maps/e3m9.h"
+	"maps/house.h"
+	"maps/race1.h"
+	"maps/race.h"
+	"maps/test.h"
+	"maps/cave.h"
+	"maps/transparent.h"
+
+1308200030 source:c:\nueva carpeta\dev\yeti3d\src\source\game\models.c
+	"models/model_rifle.c"
+	"models/model_chicken.c"
+	"models/model_prabbit.c"
+	"models/model_tigger.c"
+	"models/model_potator.c"
+	"models/model_karrot.c"
+	"models/model_goblin.c"
+	"models/model_penguin.c"
+	"models/model_scarlet.c"
+	"models/model_banana.c"
+	"models/model_rat.h"
+	"models/model_bauul.h"
+	"models/model_ogro.h"
+	"models/model_barrontree.h"
+	"models/model_leafyplant.h"
+	"models/model_cactus.h"
+	"models/model_potplant.h"
+	"models/model_pinechair.h"
+	"models/model_crate.h"
+	"models/model_overpass.h"
+	"models/model_bridge.h"
+	"models/model_pillar.h"
+	"models/model_emptypot.h"
+	"models/model_boost.h"
+	"models/model_quad.h"
+	"models/model_box.h"
+	"models/model_teleporter.h"
+
+1311432394 source:c:\nueva carpeta\dev\yeti3d\src\source\game\screens.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_image.h"
+	"screens.h"
+	"game.h"
+
+1348953667 source:c:\nueva carpeta\dev\yeti3d\src\source\main.c
+	"y3d/y3d_keyboard.h"
+	"y3d/y3d_yeti.h"
+	"game/maps.h"
+	"game/game.h"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	<bgddl.h>
+	"dlvaracc.h"
+	"libgrbase.h"
+	"libvideo.h"
+	"y3d_image.h"
+	"pixelbennu.c"
+	"y3d_engine.h"
+
+1310224010 c:\nueva carpeta\dev\yeti3d\src\source\pixelbennu.c
+	"y3d_viewport.h"
+	"y3d_pixel.h"
+	"y3d_draw.h"
+
+1081273962 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_animation.c
+	"y3d_animation.h"
+	"y3d_fixed.h"
+
+1079734860 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_ansic.c
+	"y3d_ansic.h"
+	"y3d_fixed.h"
+
+1080053626 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_cell.c
+	"y3d_cell.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1310674554 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_draw.c
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1348883794 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_engine.c
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1092636010 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_entity.c
+	"y3d_entity.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1314199110 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_file.c
+	"y3d_file.h"
+
+1314199194 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_file.h
+	"y3d_ansic.h"
+
+1092635204 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_fixed.c
+	"y3d_fixed.h"
+
+1084302512 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_fruity.c
+	"y3d_fruity.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1084302506 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_fruity.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+	"y3d_matrix.h"
+	"y3d_vertex.h"
+
+1084302522 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_image.c
+	"y3d_image.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1092615280 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_keyboard.c
+	"y3d_keyboard.h"
+
+1083468974 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_map.c
+	"y3d_map.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1079991818 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_matrix.c
+	"y3d_matrix.h"
+
+1310188364 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_pixel.c
+	"y3d_pixel.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1083459406 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_record.c
+	"y3d_record.h"
+
+1079734980 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_record.h
+	"y3d_keyboard.h"
+
+1079734910 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_sound.c
+	"y3d_sound.h"
+
+1080320424 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_spanner.c
+	"y3d_spanner.h"
+
+1080297744 c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_spanner.h
+	"y3d_ansic.h"
+
+1084064002 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_surface.c
+	"y3d_surface.h"
+	"y3d_draw.h"
+
+1092635746 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_vertex.c
+	"y3d_vertex.h"
+	"y3d_fixed.h"
+
+1285909330 source:c:\nueva carpeta\dev\yeti3d\src\source\y3d\y3d_yeti.c
+	"y3d_yeti.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+	"y3d_map.h"
+	"y3d_engine.h"
+
+1336250720 c:\nueva carpeta\dev\bennugd\include\bgddl.h
+	"arrange.h"
+	<typedef_st.h>
+	<instance_st.h>
+	<sysprocs_st.h>
+	<commons_defs.h>
+
+1331321784 c:\nueva carpeta\dev\bennugd\include\arrange.h
+	<stdint.h>
+
+1331321784 c:\nueva carpeta\dev\bennugd\include\typedef_st.h
+
+1336250720 c:\nueva carpeta\dev\bennugd\include\sysprocs_st.h
+	<instance.h>
+
+1331321784 c:\nueva carpeta\dev\bennugd\include\instance.h
+	<stdint.h>
+	<instance_st.h>
+	"i_procdef_st.h"
+
+1331321784 c:\nueva carpeta\dev\bennugd\include\instance_st.h
+
+1331321784 c:\nueva carpeta\dev\bennugd\include\i_procdef_st.h
+	"instance_st.h"
+
+1346226190 c:\nueva carpeta\dev\bennugd\include\commons_defs.h
+
+1331321784 c:\nueva carpeta\dev\bennugd\include\dlvaracc.h
+	<stdint.h>
+
+1318523078 c:\nueva carpeta\dev\bennugd\include\libgrbase.h
+	<stdlib.h>
+	<stdint.h>
+	"g_pal.h"
+	"g_bitmap.h"
+	"g_clear.h"
+	"g_grlib.h"
+	"g_region.h"
+	"g_blendop.h"
+	"g_conversion.h"
+
+1318523078 c:\nueva carpeta\dev\bennugd\include\g_pal.h
+	"g_bitmap.h"
+
+1318523078 c:\nueva carpeta\dev\bennugd\include\g_bitmap.h
+	"g_pal.h"
+
+1318523078 c:\nueva carpeta\dev\bennugd\include\g_clear.h
+	"bgdcore.h"
+	"g_region.h"
+
+1331321784 c:\nueva carpeta\dev\bennugd\include\bgdcore.h
+
+1318523078 c:\nueva carpeta\dev\bennugd\include\g_region.h
+
+1318523078 c:\nueva carpeta\dev\bennugd\include\g_grlib.h
+
+1318523078 c:\nueva carpeta\dev\bennugd\include\g_blendop.h
+
+1318523078 c:\nueva carpeta\dev\bennugd\include\g_conversion.h
+
+1318523081 c:\nueva carpeta\dev\bennugd\include\libvideo.h
+	"libgrbase.h"
+	"g_video.h"
+	"g_regions.h"
+
+1318523081 c:\nueva carpeta\dev\bennugd\include\g_video.h
+	<SDL.h>
+	"libgrbase.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_platform.h
+
+1326110994 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\begin_code.h
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\close_code.h
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_keysym.h
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\port sdl\sdl\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1318523081 c:\nueva carpeta\dev\bennugd\include\g_regions.h
+	"g_region.h"
+
+1299643226 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\boost.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../models.h"
+
+1353721841 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_yeti.h
+	"y3d_viewport.h"
+	"y3d_ansic.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_vertex.h"
+	"y3d_texture.h"
+	"y3d_surface.h"
+	"y3d_keyboard.h"
+	"y3d_map.h"
+	"y3d_pixel.h"
+
+1353723987 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_viewport.h
+
+1353187883 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_ansic.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<time.h>
+	"mushroom/include/mushroom/msh_dma.h"
+
+1079993276 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_matrix.h
+	"y3d_fixed.h"
+
+1085192058 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_fixed.h
+	"y3d_ansic.h"
+
+1092635814 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_vertex.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1082227958 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_texture.h
+	"y3d_ansic.h"
+
+1081458126 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_surface.h
+	"y3d_texture.h"
+
+1285750126 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_keyboard.h
+	"y3d_ansic.h"
+
+1081485406 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_map.h
+	"y3d_cell.h"
+
+1083992932 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_cell.h
+	"y3d_entity.h"
+	"y3d_vertex.h"
+
+1353769880 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_entity.h
+	"y3d_animation.h"
+
+1285744618 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_animation.h
+	"y3d_ansic.h"
+
+1308203660 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_pixel.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285749950 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_engine.h
+	"y3d_yeti.h"
+
+1308200030 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\models.h
+
+1311432302 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\bullet.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../models.h"
+
+1084304764 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_draw.h
+	"y3d_yeti.h"
+
+1311432308 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\death.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../models.h"
+
+1079734832 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_quake.h
+
+1311432314 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\explode.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1084218186 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_sound.h
+	"y3d_yeti.h"
+
+1311432320 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\pickup.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432324 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\quad.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432330 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\sheba.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1285746706 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\static_model.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285746846 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\static_sprite.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1311432336 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\teleporter.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432340 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\torch.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432346 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\entities.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"entities.h"
+	"models.h"
+	"ai/torch.c"
+	"ai/pickup.c"
+	"ai/boost.c"
+	"ai/quad.c"
+	"ai/teleporter.c"
+	"ai/bullet.c"
+	"ai/explode.c"
+	"ai/death.c"
+
+1081273760 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\entities.h
+	"y3d_yeti.h"
+
+1311432340 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\torch.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432320 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\pickup.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1299643226 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\boost.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../models.h"
+
+1311432324 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\quad.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432336 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\teleporter.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432302 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\bullet.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../models.h"
+
+1311432314 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\explode.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+
+1311432308 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\ai\death.c
+	"../../y3d/y3d_yeti.h"
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../models.h"
+
+1353259447 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\game.c
+	"y3d_ansic.h"
+	"y3d_sound.h"
+	"y3d_image.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_engine.h"
+	"game.h"
+	"maps.h"
+	"models.h"
+	"entities.h"
+	"screens.h"
+
+1084302408 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_image.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285745748 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\game.h
+	"../y3d/y3d_yeti.h"
+
+1305260990 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\maps.h
+	"../y3d/y3d_yeti.h"
+
+1079667512 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\screens.h
+	"y3d_yeti.h"
+
+1308199842 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\maps.c
+	"maps.h"
+	"maps/e1m1.h"
+	"maps/e1m2.h"
+	"maps/e1m3.h"
+	"maps/e1m4.h"
+	"maps/e1m5.h"
+	"maps/e1m6.h"
+	"maps/e1m7.h"
+	"maps/e1m8.h"
+	"maps/e1m9.h"
+	"maps/e2m1.h"
+	"maps/e2m2.h"
+	"maps/e2m3.h"
+	"maps/e2m4.h"
+	"maps/e2m5.h"
+	"maps/e2m6.h"
+	"maps/e2m7.h"
+	"maps/e2m8.h"
+	"maps/e2m9.h"
+	"maps/e3m1.h"
+	"maps/e3m2.h"
+	"maps/e3m3.h"
+	"maps/e3m4.h"
+	"maps/e3m5.h"
+	"maps/e3m6.h"
+	"maps/e3m7.h"
+	"maps/e3m8.h"
+	"maps/e3m9.h"
+	"maps/house.h"
+	"maps/race1.h"
+	"maps/race.h"
+	"maps/test.h"
+	"maps/cave.h"
+	"maps/transparent.h"
+
+1308200030 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\models.c
+	"models/model_rifle.c"
+	"models/model_chicken.c"
+	"models/model_prabbit.c"
+	"models/model_tigger.c"
+	"models/model_potator.c"
+	"models/model_karrot.c"
+	"models/model_goblin.c"
+	"models/model_penguin.c"
+	"models/model_scarlet.c"
+	"models/model_banana.c"
+	"models/model_rat.h"
+	"models/model_bauul.h"
+	"models/model_ogro.h"
+	"models/model_barrontree.h"
+	"models/model_leafyplant.h"
+	"models/model_cactus.h"
+	"models/model_potplant.h"
+	"models/model_pinechair.h"
+	"models/model_crate.h"
+	"models/model_overpass.h"
+	"models/model_bridge.h"
+	"models/model_pillar.h"
+	"models/model_emptypot.h"
+	"models/model_boost.h"
+	"models/model_quad.h"
+	"models/model_box.h"
+	"models/model_teleporter.h"
+
+1311432394 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\game\screens.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_image.h"
+	"screens.h"
+	"game.h"
+
+1081273962 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_animation.c
+	"y3d_animation.h"
+	"y3d_fixed.h"
+
+1079734860 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_ansic.c
+	"y3d_ansic.h"
+	"y3d_fixed.h"
+
+1080053626 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_cell.c
+	"y3d_cell.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1310674554 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_draw.c
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1353948403 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_engine.c
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1353769880 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_entity.c
+	"y3d_entity.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1314199110 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_file.c
+	"y3d_file.h"
+
+1314199194 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_file.h
+	"y3d_ansic.h"
+
+1092635204 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_fixed.c
+	"y3d_fixed.h"
+
+1084302512 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_fruity.c
+	"y3d_fruity.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1084302506 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_fruity.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+	"y3d_matrix.h"
+	"y3d_vertex.h"
+
+1084302522 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_image.c
+	"y3d_image.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1092615280 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_keyboard.c
+	"y3d_keyboard.h"
+
+1083468974 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_map.c
+	"y3d_map.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1079991818 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_matrix.c
+	"y3d_matrix.h"
+
+1353120869 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_pixel.c
+	"y3d_pixel.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1083459406 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_record.c
+	"y3d_record.h"
+
+1079734980 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_record.h
+	"y3d_keyboard.h"
+
+1079734910 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_sound.c
+	"y3d_sound.h"
+
+1080320424 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_spanner.c
+	"y3d_spanner.h"
+
+1080297744 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_spanner.h
+	"y3d_ansic.h"
+
+1084064002 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_surface.c
+	"y3d_surface.h"
+	"y3d_draw.h"
+
+1092635746 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_vertex.c
+	"y3d_vertex.h"
+	"y3d_fixed.h"
+
+1285909330 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\y3d\y3d_yeti.c
+	"y3d_yeti.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+	"y3d_map.h"
+	"y3d_engine.h"
+
+1353789146 source:c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\main.c
+	"y3d/y3d_keyboard.h"
+	"y3d/y3d_yeti.h"
+	"game/maps.h"
+	"game/game.h"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	<bgddl.h>
+	"dlvaracc.h"
+	"libgrbase.h"
+	"libvideo.h"
+	"y3d_image.h"
+	"pixelbennu.c"
+	"y3d_engine.h"
+
+1336250720 c:\nueva carpeta\dev\bennugd\libgrbase\libgrbase.h
+	<stdlib.h>
+	<stdint.h>
+	"g_pal.h"
+	"g_bitmap.h"
+	"g_clear.h"
+	"g_grlib.h"
+	"g_region.h"
+	"g_blendop.h"
+	"g_conversion.h"
+
+1349050862 c:\nueva carpeta\dev\bennugd\libgrbase\g_pal.h
+	"g_bitmap.h"
+
+1331321784 c:\nueva carpeta\dev\bennugd\libgrbase\g_bitmap.h
+	"g_pal.h"
+
+1331321784 c:\nueva carpeta\dev\bennugd\libgrbase\g_clear.h
+	"bgdcore.h"
+	"g_region.h"
+
+1331321784 c:\nueva carpeta\dev\bennugd\libgrbase\g_region.h
+
+1331321784 c:\nueva carpeta\dev\bennugd\libgrbase\g_grlib.h
+
+1331321784 c:\nueva carpeta\dev\bennugd\libgrbase\g_blendop.h
+
+1331321784 c:\nueva carpeta\dev\bennugd\libgrbase\g_conversion.h
+
+1331321784 c:\nueva carpeta\dev\bennugd\libvideo\libvideo.h
+	"libgrbase.h"
+	"g_video.h"
+	"g_regions.h"
+
+1336250720 c:\nueva carpeta\dev\bennugd\libvideo\g_video.h
+	<SDL.h>
+	"libgrbase.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_platform.h
+
+1326110994 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\begin_code.h
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\close_code.h
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_keysym.h
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\nueva carpeta\dev\yeti3d\yeti3d\port sdl\sdl\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1331321784 c:\nueva carpeta\dev\bennugd\libvideo\g_regions.h
+	"g_region.h"
+
+1310224010 c:\nueva carpeta\dev\yeti3d\yeti3d\src\source\pixelbennu.c
+	"y3d_viewport.h"
+	"y3d_pixel.h"
+	"y3d_draw.h"
+
+1385046110 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\boost.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"models.h"
+
+1353721841 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_yeti.h
+	"y3d_viewport.h"
+	"y3d_ansic.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_vertex.h"
+	"y3d_texture.h"
+	"y3d_surface.h"
+	"y3d_keyboard.h"
+	"y3d_map.h"
+	"y3d_pixel.h"
+
+1353723987 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_viewport.h
+
+1385046164 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_ansic.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<time.h>
+	"mushroom/include/mushroom/msh_dma.h"
+
+1079993276 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_matrix.h
+	"y3d_fixed.h"
+
+1085192058 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_fixed.h
+	"y3d_ansic.h"
+
+1092635814 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_vertex.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1082227958 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_texture.h
+	"y3d_ansic.h"
+
+1081458126 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_surface.h
+	"y3d_texture.h"
+
+1285750126 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_keyboard.h
+	"y3d_ansic.h"
+
+1081485406 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_map.h
+	"y3d_cell.h"
+
+1083992932 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_cell.h
+	"y3d_entity.h"
+	"y3d_vertex.h"
+
+1353769880 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_entity.h
+	"y3d_animation.h"
+
+1285744618 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_animation.h
+	"y3d_ansic.h"
+
+1308203660 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_pixel.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285749950 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_engine.h
+	"y3d_yeti.h"
+
+1308200030 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\models.h
+
+1385046241 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\bullet.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"models.h"
+
+1084304764 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_draw.h
+	"y3d_yeti.h"
+
+1385046264 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\death.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"models.h"
+
+1079734832 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_quake.h
+
+1385046296 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\explode.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1084218186 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_sound.h
+	"y3d_yeti.h"
+
+1385046327 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\pickup.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046360 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\quad.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046381 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\sheba.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1285746706 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\static_model.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285746846 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\static_sprite.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1385046405 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\teleporter.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046426 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\torch.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1311432346 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\entities.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"entities.h"
+	"models.h"
+	"ai/torch.c"
+	"ai/pickup.c"
+	"ai/boost.c"
+	"ai/quad.c"
+	"ai/teleporter.c"
+	"ai/bullet.c"
+	"ai/explode.c"
+	"ai/death.c"
+
+1081273760 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\entities.h
+	"y3d_yeti.h"
+
+1385046426 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\torch.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046327 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\pickup.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046110 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\boost.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"models.h"
+
+1385046360 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\quad.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046405 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\teleporter.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046241 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\bullet.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"models.h"
+
+1385046296 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\explode.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046264 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\ai\death.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"models.h"
+
+1353259447 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\game.c
+	"y3d_ansic.h"
+	"y3d_sound.h"
+	"y3d_image.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_engine.h"
+	"game.h"
+	"maps.h"
+	"models.h"
+	"entities.h"
+	"screens.h"
+
+1084302408 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\y3d\y3d_image.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285745748 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\game.h
+	"../y3d/y3d_yeti.h"
+
+1305260990 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\maps.h
+	"../y3d/y3d_yeti.h"
+
+1079667512 c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\screens.h
+	"y3d_yeti.h"
+
+1308199842 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\maps.c
+	"maps.h"
+	"maps/e1m1.h"
+	"maps/e1m2.h"
+	"maps/e1m3.h"
+	"maps/e1m4.h"
+	"maps/e1m5.h"
+	"maps/e1m6.h"
+	"maps/e1m7.h"
+	"maps/e1m8.h"
+	"maps/e1m9.h"
+	"maps/e2m1.h"
+	"maps/e2m2.h"
+	"maps/e2m3.h"
+	"maps/e2m4.h"
+	"maps/e2m5.h"
+	"maps/e2m6.h"
+	"maps/e2m7.h"
+	"maps/e2m8.h"
+	"maps/e2m9.h"
+	"maps/e3m1.h"
+	"maps/e3m2.h"
+	"maps/e3m3.h"
+	"maps/e3m4.h"
+	"maps/e3m5.h"
+	"maps/e3m6.h"
+	"maps/e3m7.h"
+	"maps/e3m8.h"
+	"maps/e3m9.h"
+	"maps/house.h"
+	"maps/race1.h"
+	"maps/race.h"
+	"maps/test.h"
+	"maps/cave.h"
+	"maps/transparent.h"
+
+1308200030 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\models.c
+	"models/model_rifle.c"
+	"models/model_chicken.c"
+	"models/model_prabbit.c"
+	"models/model_tigger.c"
+	"models/model_potator.c"
+	"models/model_karrot.c"
+	"models/model_goblin.c"
+	"models/model_penguin.c"
+	"models/model_scarlet.c"
+	"models/model_banana.c"
+	"models/model_rat.h"
+	"models/model_bauul.h"
+	"models/model_ogro.h"
+	"models/model_barrontree.h"
+	"models/model_leafyplant.h"
+	"models/model_cactus.h"
+	"models/model_potplant.h"
+	"models/model_pinechair.h"
+	"models/model_crate.h"
+	"models/model_overpass.h"
+	"models/model_bridge.h"
+	"models/model_pillar.h"
+	"models/model_emptypot.h"
+	"models/model_boost.h"
+	"models/model_quad.h"
+	"models/model_box.h"
+	"models/model_teleporter.h"
+
+1311432394 source:c:\ps2dev\msys\1.0\local\ps2dev\ps2sdk\samples\bennugd\yeti3d\source\game\screens.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_image.h"
+	"screens.h"
+	"game.h"
+
+1385046110 source:c:\desarrollo\vc\yeti3d\source\game\ai\boost.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"models.h"
+
+1504818548 c:\desarrollo\vc\yeti3d\source\y3d\y3d_yeti.h
+	"y3d_viewport.h"
+	"y3d_ansic.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_vertex.h"
+	"y3d_texture.h"
+	"y3d_surface.h"
+	"y3d_keyboard.h"
+	"y3d_map.h"
+	"y3d_pixel.h"
+
+1504818811 c:\desarrollo\vc\yeti3d\source\y3d\y3d_viewport.h
+
+1385047911 c:\desarrollo\vc\yeti3d\source\y3d\y3d_ansic.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<time.h>
+	"mushroom/include/mushroom/msh_dma.h"
+
+1079993276 c:\desarrollo\vc\yeti3d\source\y3d\y3d_matrix.h
+	"y3d_fixed.h"
+
+1085192058 c:\desarrollo\vc\yeti3d\source\y3d\y3d_fixed.h
+	"y3d_ansic.h"
+
+1092635814 c:\desarrollo\vc\yeti3d\source\y3d\y3d_vertex.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1082227958 c:\desarrollo\vc\yeti3d\source\y3d\y3d_texture.h
+	"y3d_ansic.h"
+
+1081458126 c:\desarrollo\vc\yeti3d\source\y3d\y3d_surface.h
+	"y3d_texture.h"
+
+1285750126 c:\desarrollo\vc\yeti3d\source\y3d\y3d_keyboard.h
+	"y3d_ansic.h"
+
+1081485406 c:\desarrollo\vc\yeti3d\source\y3d\y3d_map.h
+	"y3d_cell.h"
+
+1083992932 c:\desarrollo\vc\yeti3d\source\y3d\y3d_cell.h
+	"y3d_entity.h"
+	"y3d_vertex.h"
+
+1353769880 c:\desarrollo\vc\yeti3d\source\y3d\y3d_entity.h
+	"y3d_animation.h"
+
+1285744618 c:\desarrollo\vc\yeti3d\source\y3d\y3d_animation.h
+	"y3d_ansic.h"
+
+1308203660 c:\desarrollo\vc\yeti3d\source\y3d\y3d_pixel.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285749950 c:\desarrollo\vc\yeti3d\source\y3d\y3d_engine.h
+	"y3d_yeti.h"
+
+1308200030 c:\desarrollo\vc\yeti3d\source\game\models.h
+
+1385046241 source:c:\desarrollo\vc\yeti3d\source\game\ai\bullet.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"models.h"
+
+1084304764 c:\desarrollo\vc\yeti3d\source\y3d\y3d_draw.h
+	"y3d_yeti.h"
+
+1385046264 source:c:\desarrollo\vc\yeti3d\source\game\ai\death.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"models.h"
+
+1079734832 c:\desarrollo\vc\yeti3d\source\y3d\y3d_quake.h
+
+1385046296 source:c:\desarrollo\vc\yeti3d\source\game\ai\explode.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1084218186 c:\desarrollo\vc\yeti3d\source\y3d\y3d_sound.h
+	"y3d_yeti.h"
+
+1385046327 source:c:\desarrollo\vc\yeti3d\source\game\ai\pickup.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046360 source:c:\desarrollo\vc\yeti3d\source\game\ai\quad.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046381 source:c:\desarrollo\vc\yeti3d\source\game\ai\sheba.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1285746706 source:c:\desarrollo\vc\yeti3d\source\game\ai\static_model.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1285746846 source:c:\desarrollo\vc\yeti3d\source\game\ai\static_sprite.c
+	"../../y3d/y3d_engine.h"
+	"../../y3d/y3d_draw.h"
+	"../../y3d/y3d_quake.h"
+	"../../y3d/y3d_sound.h"
+	"../models.h"
+	"../sprites.h"
+
+1385046405 source:c:\desarrollo\vc\yeti3d\source\game\ai\teleporter.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046426 source:c:\desarrollo\vc\yeti3d\source\game\ai\torch.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1311432346 source:c:\desarrollo\vc\yeti3d\source\game\entities.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"entities.h"
+	"models.h"
+	"ai/torch.c"
+	"ai/pickup.c"
+	"ai/boost.c"
+	"ai/quad.c"
+	"ai/teleporter.c"
+	"ai/bullet.c"
+	"ai/explode.c"
+	"ai/death.c"
+
+1081273760 c:\desarrollo\vc\yeti3d\source\game\entities.h
+	"y3d_yeti.h"
+
+1385046426 c:\desarrollo\vc\yeti3d\source\game\ai\torch.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046327 c:\desarrollo\vc\yeti3d\source\game\ai\pickup.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046110 c:\desarrollo\vc\yeti3d\source\game\ai\boost.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"models.h"
+
+1385046360 c:\desarrollo\vc\yeti3d\source\game\ai\quad.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046405 c:\desarrollo\vc\yeti3d\source\game\ai\teleporter.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046241 c:\desarrollo\vc\yeti3d\source\game\ai\bullet.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"models.h"
+
+1385046296 c:\desarrollo\vc\yeti3d\source\game\ai\explode.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_sound.h"
+	"models.h"
+
+1385046264 c:\desarrollo\vc\yeti3d\source\game\ai\death.c
+	"y3d_yeti.h"
+	"y3d_engine.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"models.h"
+
+1353259447 source:c:\desarrollo\vc\yeti3d\source\game\game.c
+	"y3d_ansic.h"
+	"y3d_sound.h"
+	"y3d_image.h"
+	"y3d_draw.h"
+	"y3d_quake.h"
+	"y3d_engine.h"
+	"game.h"
+	"maps.h"
+	"models.h"
+	"entities.h"
+	"screens.h"
+
+1084302408 c:\desarrollo\vc\yeti3d\source\y3d\y3d_image.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+
+1285745748 c:\desarrollo\vc\yeti3d\source\game\game.h
+	"../y3d/y3d_yeti.h"
+
+1305260990 c:\desarrollo\vc\yeti3d\source\game\maps.h
+	"../y3d/y3d_yeti.h"
+
+1079667512 c:\desarrollo\vc\yeti3d\source\game\screens.h
+	"y3d_yeti.h"
+
+1308199842 source:c:\desarrollo\vc\yeti3d\source\game\maps.c
+	"maps.h"
+	"maps/e1m1.h"
+	"maps/e1m2.h"
+	"maps/e1m3.h"
+	"maps/e1m4.h"
+	"maps/e1m5.h"
+	"maps/e1m6.h"
+	"maps/e1m7.h"
+	"maps/e1m8.h"
+	"maps/e1m9.h"
+	"maps/e2m1.h"
+	"maps/e2m2.h"
+	"maps/e2m3.h"
+	"maps/e2m4.h"
+	"maps/e2m5.h"
+	"maps/e2m6.h"
+	"maps/e2m7.h"
+	"maps/e2m8.h"
+	"maps/e2m9.h"
+	"maps/e3m1.h"
+	"maps/e3m2.h"
+	"maps/e3m3.h"
+	"maps/e3m4.h"
+	"maps/e3m5.h"
+	"maps/e3m6.h"
+	"maps/e3m7.h"
+	"maps/e3m8.h"
+	"maps/e3m9.h"
+	"maps/house.h"
+	"maps/race1.h"
+	"maps/race.h"
+	"maps/test.h"
+	"maps/cave.h"
+	"maps/transparent.h"
+
+1308200030 source:c:\desarrollo\vc\yeti3d\source\game\models.c
+	"models/model_rifle.c"
+	"models/model_chicken.c"
+	"models/model_prabbit.c"
+	"models/model_tigger.c"
+	"models/model_potator.c"
+	"models/model_karrot.c"
+	"models/model_goblin.c"
+	"models/model_penguin.c"
+	"models/model_scarlet.c"
+	"models/model_banana.c"
+	"models/model_rat.h"
+	"models/model_bauul.h"
+	"models/model_ogro.h"
+	"models/model_barrontree.h"
+	"models/model_leafyplant.h"
+	"models/model_cactus.h"
+	"models/model_potplant.h"
+	"models/model_pinechair.h"
+	"models/model_crate.h"
+	"models/model_overpass.h"
+	"models/model_bridge.h"
+	"models/model_pillar.h"
+	"models/model_emptypot.h"
+	"models/model_boost.h"
+	"models/model_quad.h"
+	"models/model_box.h"
+	"models/model_teleporter.h"
+
+1311432394 source:c:\desarrollo\vc\yeti3d\source\game\screens.c
+	"y3d_draw.h"
+	"y3d_engine.h"
+	"y3d_image.h"
+	"screens.h"
+	"game.h"
+
+1081273962 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_animation.c
+	"y3d_animation.h"
+	"y3d_fixed.h"
+
+1079734860 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_ansic.c
+	"y3d_ansic.h"
+	"y3d_fixed.h"
+
+1080053626 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_cell.c
+	"y3d_cell.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1310674554 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_draw.c
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1353948403 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_engine.c
+	"y3d_engine.h"
+	"y3d_quake.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1353769880 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_entity.c
+	"y3d_entity.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1504215805 source:c:\desarrollo\vc\yeti3d\source\main.c
+	"y3d_keyboard.h"
+	"y3d_yeti.h"
+	"maps.h"
+	"game.h"
+	"y3d_viewport.h"
+	"y3d_pixel.h"
+	"y3d_draw.h"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	<bgddl.h>
+	"dlvaracc.h"
+	"libgrbase.h"
+	"libvideo.h"
+	"y3d_image.h"
+	"y3d_engine.h"
+
+1231786294 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\include\bgddl.h
+	<typedef_st.h>
+	<instance_st.h>
+	<sysprocs_st.h>
+	<commons_defs.h>
+
+1239185012 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\include\typedef_st.h
+
+1243293798 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\include\instance_st.h
+
+1231786294 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\include\sysprocs_st.h
+	<instance.h>
+
+1270696950 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\include\instance.h
+	<stdint.h>
+	<instance_st.h>
+	"i_procdef_st.h"
+
+1243293798 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\include\i_procdef_st.h
+	"instance_st.h"
+
+1248228166 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\include\commons_defs.h
+
+1272225355 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\include\dlvaracc.h
+	<stdint.h>
+
+1241934284 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\libgrbase\libgrbase.h
+	<stdlib.h>
+	<stdint.h>
+	"g_pal.h"
+	"g_bitmap.h"
+	"g_clear.h"
+	"g_grlib.h"
+	"g_region.h"
+	"g_blendop.h"
+	"g_conversion.h"
+
+1248228166 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\libgrbase\g_pal.h
+	"g_bitmap.h"
+
+1244164780 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\libgrbase\g_bitmap.h
+	"g_pal.h"
+
+1231786294 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\libgrbase\g_clear.h
+	"bgdcore.h"
+	"g_region.h"
+
+1231786294 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\include\bgdcore.h
+
+1231786294 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\libgrbase\g_region.h
+
+1231786294 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\libgrbase\g_grlib.h
+
+1243293798 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\libgrbase\g_blendop.h
+
+1231786294 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\libgrbase\g_conversion.h
+
+1231786294 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\libvideo\libvideo.h
+	"libgrbase.h"
+	"g_video.h"
+	"g_regions.h"
+
+1254831060 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\libvideo\g_video.h
+	<SDL/SDL.h>
+	<SDL.h>
+	"libgrbase.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326954630 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_platform.h
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_config_os2.h
+	"SDL_platform.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\begin_code.h
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\close_code.h
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_keysym.h
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326954606 c:\desarrollo\vc\3rdparty\sdl1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1231786294 c:\desarrollo\vc\3rdparty\bennu sdk\sdk\libvideo\g_regions.h
+	"g_region.h"
+
+1385261590 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_file.c
+	"y3d_file.h"
+
+1314199194 c:\desarrollo\vc\yeti3d\source\y3d\y3d_file.h
+	"y3d_ansic.h"
+
+1092635204 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_fixed.c
+	"y3d_fixed.h"
+
+1084302512 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_fruity.c
+	"y3d_fruity.h"
+	"y3d_matrix.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1084302506 c:\desarrollo\vc\yeti3d\source\y3d\y3d_fruity.h
+	"y3d_ansic.h"
+	"y3d_viewport.h"
+	"y3d_matrix.h"
+	"y3d_vertex.h"
+
+1084302522 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_image.c
+	"y3d_image.h"
+	"y3d_fixed.h"
+	"y3d_draw.h"
+
+1092615280 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_keyboard.c
+	"y3d_keyboard.h"
+
+1083468974 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_map.c
+	"y3d_map.h"
+	"y3d_fixed.h"
+	"y3d_texture.h"
+
+1079991818 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_matrix.c
+	"y3d_matrix.h"
+
+1353120869 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_pixel.c
+	"y3d_pixel.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+
+1083459406 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_record.c
+	"y3d_record.h"
+
+1079734980 c:\desarrollo\vc\yeti3d\source\y3d\y3d_record.h
+	"y3d_keyboard.h"
+
+1079734910 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_sound.c
+	"y3d_sound.h"
+
+1080320424 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_spanner.c
+	"y3d_spanner.h"
+
+1080297744 c:\desarrollo\vc\yeti3d\source\y3d\y3d_spanner.h
+	"y3d_ansic.h"
+
+1084064002 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_surface.c
+	"y3d_surface.h"
+	"y3d_draw.h"
+
+1092635746 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_vertex.c
+	"y3d_vertex.h"
+	"y3d_fixed.h"
+
+1285909330 source:c:\desarrollo\vc\yeti3d\source\y3d\y3d_yeti.c
+	"y3d_yeti.h"
+	"y3d_draw.h"
+	"y3d_image.h"
+	"y3d_map.h"
+	"y3d_engine.h"
+

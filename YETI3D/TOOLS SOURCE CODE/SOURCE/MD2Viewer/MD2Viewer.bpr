@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="MD2Viewer.exe"/>
+    <OBJFILES value="MD2Viewer.obj UnitMain.obj ..\src\sys\BCBTools.obj ..\src\y3d\y3d_all.obj 
+      ..\src\game\sprites.obj ..\src\game\data.obj ..\src\game\entities.obj 
+      ..\src\game\game.obj ..\src\game\maps.obj ..\src\game\models.obj 
+      ..\src\game\screens.obj ..\platform\win32\yeti3dwin32.obj"/>
+    <RESFILES value="MD2Viewer.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) UnitMain.dfm"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value="rtl.lib vcl.lib"/>
+    <SPARELIBS value="vcl.lib rtl.lib"/>
+    <PACKAGES value="vcl.bpi rtl.bpi vclx.bpi bcbsmp.bpi dclocx.bpi"/>
+    <PATHCPP value=".;..\src\sys;..\src\y3d;..\src\game;..\src\game;..\src\game;..\src\game;..\src\game;..\src\game;..\src\game;..\platform\win32"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value=""/>
+    <SYSDEFINES value="NO_STRICT"/>
+    <MAINSOURCE value="MD2Viewer.cpp"/>
+    <INCLUDEPATH value="..\platform\win32;..\src\game;..\src\y3d;..\src\entities;..\src\sys;..\src;..\..\src;&quot;C:\Program Files\Borland\CBuilder6\Projects&quot;;C:\yeti3d\Tools\MD2Viewer;$(BCB)\include;$(BCB)\include\vcl"/>
+    <LIBPATH value="..\platform\win32;..\src\game;..\src\y3d;..\src\entities;..\src\sys;..\src;..\..\src;&quot;C:\Program Files\Borland\CBuilder6\Projects&quot;;C:\yeti3d\Tools\MD2Viewer;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <WARNINGS value="-w-par"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-I..\platform\win32 -I..\src\game -I..\src\y3d -I..\src\entities 
+      -I..\src\sys -I..\src -I..\..\src 
+      -I&quot;C:\Program Files\Borland\CBuilder6\Projects&quot; 
+      -IC:\yeti3d\Tools\MD2Viewer -I$(BCB)\include -I$(BCB)\include\vcl 
+      -src_suffix cpp -boa"/>
+    <CFLAG1 value="-O2 -H=$(BCB)\lib\vcl60.csm -Hc -Vx -Ve -X- -a8 -b- -k- -vi -c -tW -tWM"/>
+    <PFLAGS value="-$Y- -$L- -$D- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zd"/>
+    <LFLAGS value="-D&quot;&quot; -aa -Tpe -x -Gn"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mt.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="MD2Viewer.res" FORMNAME="" UNITNAME="MD2Viewer.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MD2Viewer.cpp" FORMNAME="" UNITNAME="MD2Viewer" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="UnitMain.cpp" FORMNAME="FormMain" UNITNAME="UnitMain" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\src\sys\BCBTools.cpp" FORMNAME="" UNITNAME="BCBTools" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\src\y3d\y3d_all.c" FORMNAME="" UNITNAME="y3d_all" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\src\game\sprites.c" FORMNAME="" UNITNAME="sprites.c" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\src\game\data.c" FORMNAME="" UNITNAME="data.c" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\src\game\entities.c" FORMNAME="" UNITNAME="entities.c" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\src\game\game.c" FORMNAME="" UNITNAME="game.c" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\src\game\maps.c" FORMNAME="" UNITNAME="maps.c" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\src\game\models.c" FORMNAME="" UNITNAME="models.c" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\src\game\screens.c" FORMNAME="" UNITNAME="screens.c" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\platform\win32\yeti3dwin32.c" FORMNAME="" UNITNAME="yeti3dwin32" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1033
+CodePage=1252
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[HistoryLists\hlIncludePath]
+Count=3
+Item0=..\platform\win32;..\src\game;..\src\y3d;..\src\entities;..\src\sys;..\src;..\..\src;C:\Program Files\Borland\CBuilder6\Projects;C:\yeti3d\Tools\MD2Viewer;$(BCB)\include;$(BCB)\include\vcl
+Item1=..\src\entities;..\src\sys;..\src;..\..\src;C:\Program Files\Borland\CBuilder6\Projects;C:\yeti3d\Tools\MD2Viewer;$(BCB)\include;$(BCB)\include\vcl
+Item2=..\..\src;C:\Program Files\Borland\CBuilder6\Projects;C:\yeti3d\Tools\MD2Viewer;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=3
+Item0=..\platform\win32;..\src\game;..\src\y3d;..\src\entities;..\src\sys;..\src;..\..\src;C:\Program Files\Borland\CBuilder6\Projects;C:\yeti3d\Tools\MD2Viewer;$(BCB)\lib\obj;$(BCB)\lib
+Item1=..\src\entities;..\src\sys;..\src;..\..\src;C:\Program Files\Borland\CBuilder6\Projects;C:\yeti3d\Tools\MD2Viewer;$(BCB)\lib\obj;$(BCB)\lib
+Item2=..\..\src;C:\Program Files\Borland\CBuilder6\Projects;C:\yeti3d\Tools\MD2Viewer;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=2
+Item0=_DEBUG;__YETI_EDITOR__
+Item1=_DEBUG
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+  </IDEOPTIONS>
+</PROJECT>
